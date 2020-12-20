@@ -861,7 +861,7 @@ p {
 ===========================*/
 .single_couple .couple_image {
   overflow: hidden;
-  border-radius: 10px; }
+  border-radius: 0px; }
   .single_couple .couple_image img {
     width: 100%;
     -webkit-transition: all 0.3s ease-out 0s;
